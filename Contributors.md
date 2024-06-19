@@ -44,3 +44,4 @@ under the appropriate header.
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
 - [Sakshi Vij](https://github.com/sakshivij21)
+- [Sudiksha Gunturi](https://github.com/SudikshaG)
